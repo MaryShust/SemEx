@@ -1,0 +1,3 @@
+extern calculate_linear_function
+extern calculate_circle_function
+extern fdiv_1000
